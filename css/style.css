@@ -1,0 +1,15 @@
+.background {
+    height: 100vh;
+
+    background: url('images/mcbride_station.JPG') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
